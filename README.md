@@ -5,8 +5,8 @@ Two WAMP clients using either Twisted or asyncio.
 Each script takes some options to specify how to connect to the
 router, the realm to use, etc. Run either one to see the options:
 
-   python client_tx.py --help
-   python client_aio.py --help
+    python client_tx.py --help
+    python client_aio.py --help
 
 You can run more than one client at once to see what happens with
 publishes, etc.
